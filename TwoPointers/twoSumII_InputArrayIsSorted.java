@@ -79,6 +79,6 @@ public class TwoSumII_InputArrayIsSorted {
         }
 
         // As per problem, exactly one solution exists
-        return new int[] {};
+        return new int[] {};  // or return new int[0]; this also returns exactly one solution 
     }
 }
