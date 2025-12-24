@@ -6,8 +6,7 @@ LeetCode 18 – 4Sum
 =============================================
 
 Problem:
-Given an array nums of n integers, return all unique
-quadruplets [nums[a], nums[b], nums[c], nums[d]] such that:
+Given an array nums of n integers, return all unique quadruplets [nums[a], nums[b], nums[c], nums[d]] such that:
 
 - a, b, c, d are distinct indices
 - nums[a] + nums[b] + nums[c] + nums[d] == target
