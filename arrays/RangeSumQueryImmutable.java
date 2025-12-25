@@ -6,8 +6,7 @@ LeetCode 303 – Range Sum Query (Immutable)
 =============================================
 
 Problem:
-Given an integer array nums, handle multiple queries of the form:
-sumRange(left, right), which returns the sum of elements
+Given an integer array nums, handle multiple queries of the form: sumRange(left, right), which returns the sum of elements
 from index left to right (inclusive).
 
 Key Constraint:
