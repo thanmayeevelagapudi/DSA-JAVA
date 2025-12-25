@@ -6,8 +6,7 @@ LeetCode 49 – Group Anagrams
 =============================================
 
 Problem:
-Given an array of strings, group the anagrams together.
-You can return the answer in any order.
+Given an array of strings, group the anagrams together. You can return the answer in any order.
 
 ------------------------------------------------
 Optimized Approach (Frequency Count as Key):
