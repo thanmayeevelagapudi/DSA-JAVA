@@ -6,8 +6,7 @@ LeetCode 242 – Valid Anagram
 =============================================
 
 Problem:
-Given two strings s and t, return true if t is an
-anagram of s; otherwise, return false.
+Given two strings s and t, return true if t is an anagram of s; otherwise, return false.
 
 An anagram uses the same characters with the same
 frequencies, possibly in a different order.
