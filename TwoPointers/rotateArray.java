@@ -1,7 +1,6 @@
 package arrays;
- 
-/*
 
+/*
 =============================================
 
 LeetCode 189 – Rotate Array
