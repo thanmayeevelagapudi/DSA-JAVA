@@ -6,9 +6,7 @@ LeetCode 881 – Boats to Save People
 =============================================
 
 Problem:
-You are given an array people where people[i] is the weight
-of the ith person, and an integer limit representing the
-maximum weight a boat can carry.
+You are given an array people where people[i] is the weight of the ith person, and an integer limit representing the maximum weight a boat can carry.
 
 Each boat can carry at most two people at the same time,
 provided their combined weight does not exceed limit.
