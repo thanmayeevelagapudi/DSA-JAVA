@@ -7,15 +7,12 @@ LeetCode 88 – Merge Sorted Array
 
 Problem:
 You are given two sorted integer arrays nums1 and nums2, where nums1 has a size of m + n, with the first m elements being valid and the last n elements set to 0.
-
-Merge nums2 into nums1 so that nums1 becomes a single
-sorted array.
+Merge nums2 into nums1 so that nums1 becomes a single sorted array.
 
 ------------------------------------------------
 Approach (Three Pointers – From the End):
 ------------------------------------------------
-To avoid overwriting elements in nums1, we merge from
-the end of the array.
+To avoid overwriting elements in nums1, we merge from the end of the array.
 
 Pointers:
 - i → last valid element in nums1 (m - 1)
